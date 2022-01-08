@@ -1,2 +1,2 @@
 This will probably be a forum-type website. Will update readme for dependencies as I decide what they are.
-Made using ASP.NET MVC.
+Made using ASP.NET MVC and Microsoft Identity.
